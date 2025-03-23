@@ -1,12 +1,8 @@
-# v2ray-free-feeds
-v2ray免费可用订阅源
+# free-feeds
+v2ray/clash/tvbox 免费可用订阅源
 
 
-### 推荐源（长期稳定）
-https://raw.fastgit.org/freefq/free/master/v2
-
-
-### 其他源
+### v2ray
 https://raw.fastgit.org/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg
 
 https://raw.fastgit.org/eycorsican/rule-sets/master/kitsunebi_sub
@@ -35,3 +31,9 @@ https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
 https://raw.githubusercontent.com/vxiaov/free_proxies/main/clash/clash.provider.yaml
 
 https://raw.githubusercontent.com/a2470982985/getNode/main/clash.yaml
+
+### tvbox源
+
+http://pandown.pro/tvbox/tvbox.json
+
+https://www.lysvc.cc/tvbox/TVshare.json
